@@ -216,7 +216,6 @@ function esVocal(letra){
     return 'Dato incorrecto';
   } */
   return vocales.test(letra) && letra.length === 1 ? 'Es vocal' : 'Dato incorrecto'; 
-
 }
 
 
