@@ -1,0 +1,33 @@
+body {
+    background: url(https://cdn.pixabay.com/photo/2016/10/17/14/31/background-1747777_960_720.jpg);
+    text-align: center;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+
+h1 {
+    color: red;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: aquamarine;
+    padding: 50px;
+    border: 2px solid black;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
